@@ -1,8 +1,8 @@
-package org.example;
+package org.endpoints;
 
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Front");
+        System.out.println("Prueba PR");
     }
 }
